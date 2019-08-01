@@ -22,7 +22,7 @@ Als ich angefangen habe, Brot zu backen, habe ich nach einem einfachen Vollkornb
 
 ### Sauerteig
 
--   50 g Sauerteig
+-   50 g Anstellgut
 -   175 g Roggenvollkornmehl
 -   175 g Wasser, warm
 
