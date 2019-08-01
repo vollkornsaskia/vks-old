@@ -317,6 +317,9 @@ pre.code, code {
 	margin-right: 2%;
 	color: #262927;
 }
+h1, h2, h3, h4 {
+	font-family: Cinzel, serif !important;
+}
 
 /* SOURCE: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
