@@ -20,3 +20,7 @@ Ich bin Informatik-Studentin aus Karlsruhe und backe leidenschaftlich gerne Brot
 Ich bin keine gelernte Bäckerin und habe sicherlich weniger Expertise und Erfahrung als andere Bäcker, die ihre Rezepte im Internet veröffentlichen. Die hier aufgeschrieben Rezepte sind aber alle von mir sorgfältig getestet und ausprobiert, um ein möglichst schönes und rundes Endergebnis zu erreichen.
 
 Wenn du Fragen hast, entweder technischer Natur oder zu mir, kannst du mir gerne eine Nachricht schicken.
+
+<div style="text-align:center">hi (at) vollkornsaskia (punkt) de</div>
+
+
