@@ -25,7 +25,7 @@ SITE_URL = "https://vollkornsaskia.de/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://vollkornsaskia.de/"
 BLOG_EMAIL = "hi@vollkornsaskia.de"
-BLOG_DESCRIPTION = "Auf dieser Seite findest du Rezepte für Sauerteigbrote und weiteres."  # (translatable)
+BLOG_DESCRIPTION = "Gesunde Rezepte für Sauerteigbrot und Weiteres"  # (translatable)
 
 # Nikola is multilingual!
 #
