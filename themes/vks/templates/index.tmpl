@@ -22,7 +22,7 @@
     ${pagination.page_navigation(current_page, page_links, prevlink, nextlink, prev_next_links_reversed)}
 % endif
 
-% for post in posts:
+% for post in posts[0:5]:
 <article class="li post">
     <header class="post-header">
         <h3 class="post-title"><a href="${post.permalink()}">${post.title()|h}</a></h3>
@@ -51,6 +51,15 @@
     </footer>
 </article>
 % endfor
+
+<h1>Vollkornsaskia auf Instagram</h1>
+<!-- LightWidget WIDGET -->
+<script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
+<iframe src="https://cdn.lightwidget.com/widgets/b6fa9a6ac485583397d20e12a275a500.html"
+    scrolling="no" allowtransparency="true"
+    class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;">
+</iframe>
+
 
 ${helper.html_pager()}
 ${comments.comment_link_script()}
