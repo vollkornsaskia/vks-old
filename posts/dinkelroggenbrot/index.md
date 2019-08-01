@@ -15,18 +15,18 @@ Als ich angefangen habe, Brot zu backen, habe ich nach einem einfachen Vollkornb
 
 <!-- TEASER_END -->
 
-# Quellstück (optional)
+### Quellstück (optional)
 
 -   60 g gemischte Samen und Kerne, z.B. Sesam, Leinsamen, Kürbiskerne, Sonnenblumenkerne, Mohn oder auch grobes Schrot oder Haferflocken
 -   60 g Wasser
 
-# Sauerteig
+### Sauerteig
 
 -   50 g Sauerteig
 -   175 g Roggenvollkornmehl
 -   175 g Wasser, warm
 
-# Hauptteig
+### Hauptteig
 
 -   250 g Dinkelvollkornmehl
 -   160 g Roggenvollkornmehl
