@@ -311,6 +311,7 @@ pre.code, code {
 }
 
 .navelem {
+	text-align: center;
 	display: inline;
 	margin-left: 2%;
 	margin-right: 2%;
