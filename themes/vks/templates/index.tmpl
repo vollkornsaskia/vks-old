@@ -29,8 +29,6 @@
         <p class="post-time"><time datetime="${post.formatted_date('webiso')}">${post.formatted_date(date_format)|h}</time></p>
     </header>
 
-    <img src="images/vks.svg" alt="Vollkornsaskia">
-
     <section class="post-excerpt">
     %if index_teasers:
     ${post.text(teaser_only=True)}
