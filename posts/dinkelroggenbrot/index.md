@@ -36,7 +36,7 @@ Als ich angefangen habe, Brot zu backen, habe ich nach einem einfachen Vollkornb
 Für das Quellstück das warme Wasser mit den Kernen oder Samen vermischen und abgedeckt im Kühlschrank lagern, bis es benötigt wird. Mindestens 8 Stunden quellen lassen.
 
 Für den Sauerteig alle Zutaten mischen und abgedeckt bei Raumtemperatur 8-12 Stunden gehen lassen. Wenn der Sauerteig morgens angesetzt wird, kann abends das Brot gebacken werden. Alternativ kann der Sauerteig morgens angesetzt werden und am nächsten Morgen erst gebacken werden. 
-Für den Hauptteig alle Zutaten mischen. Am einfachsten geht das mit einer Küchenmaschine, da der Zeit sehr klebrig und zäh ist. Per Hand oder mit einem sehr stabilen Löffel geht natürlich auch, erfordert allerdings viel Muskelkraft und Durchhaltevermögen, da der Teig doch recht klebrig ist. Den Teig mit einer flexiblen Teigkarte vom Schüsselrand kratzen.
+Für den Hauptteig alle Zutaten mischen. Am einfachsten geht das mit einer Küchenmaschine, da der Teig sehr klebrig und zäh ist. Per Hand oder mit einem sehr stabilen Löffel geht natürlich auch, erfordert allerdings viel Muskelkraft und Durchhaltevermögen, da der Teig doch recht klebrig ist. Den Teig mit einer flexiblen Teigkarte vom Schüsselrand kratzen.
 
 Den Teig nun abgedeckt 1 Stunde in der Schüssel gehen lassen. 
 
