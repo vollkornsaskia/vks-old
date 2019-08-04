@@ -36,17 +36,6 @@
     ${post.text(teaser_only=False)}
     %endif
     </section>
-
-    <footer class="post-footer">
-        <span>
-            % if not post.meta('nocomments') and site_has_comments:
-                <p class="commentline">${comments.comment_link(post.permalink(), post._base_path)}
-            % endif
-
-            &nbsp;&nbsp;
-
-        </span>
-    </footer>
 </article>
 % endfor
 
