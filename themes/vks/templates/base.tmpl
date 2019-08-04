@@ -8,7 +8,8 @@ ${base.html_headstart()}
 ### Leave this block alone.
 </%block>
 ${template_hooks['extra_head']()}
-<link href="https://fonts.googleapis.com/css?family=Cinzel&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Cinzel&display=swap" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 </head>
 
 <main>
@@ -39,5 +40,25 @@ ${template_hooks['extra_head']()}
     <%block name="extra_js"></%block>
     ${body_end}
     ${template_hooks['body_end']()}
+    <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#efefef",
+      "text": "#838391"
+    },
+    "button": {
+      "background": "#111"
+    }
+  },
+  "content": {
+    "message": "Vollkornsaskia.de benutzt Cookies.",
+    "dismiss": "Alles klar!",
+    "link": "Datenschutzerklärung",
+    "href": "/pages/datenschutz"
+  }
+});
+</script>
 </body>
 </html>
