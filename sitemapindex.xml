@@ -7,43 +7,31 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://vollkornsaskia.de/categories/bagel.xml</loc>
-  <lastmod>2019-08-01T12:49:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://vollkornsaskia.de/categories/brioche.xml</loc>
-  <lastmod>2019-08-01T12:49:00Z</lastmod>
+  <lastmod>2019-08-05T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://vollkornsaskia.de/categories/cat_broetchen-sauerteig.xml</loc>
-  <lastmod>2019-08-01T12:49:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://vollkornsaskia.de/categories/cat_gebaeck.xml</loc>
-  <lastmod>2019-08-01T12:49:00Z</lastmod>
+  <lastmod>2019-08-05T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://vollkornsaskia.de/categories/cat_sauerteig-brot.xml</loc>
-  <lastmod>2019-08-02T13:43:00Z</lastmod>
+  <lastmod>2019-08-05T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://vollkornsaskia.de/categories/einfach.xml</loc>
-  <lastmod>2019-08-02T13:43:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://vollkornsaskia.de/categories/hefezopf.xml</loc>
-  <lastmod>2019-08-01T12:49:00Z</lastmod>
+  <lastmod>2019-08-05T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://vollkornsaskia.de/categories/rezept.xml</loc>
-  <lastmod>2019-08-01T12:49:00Z</lastmod>
+  <lastmod>2019-08-05T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://vollkornsaskia.de/categories/sauerteig.xml</loc>
-  <lastmod>2019-08-02T13:43:00Z</lastmod>
+  <lastmod>2019-08-05T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://vollkornsaskia.de/categories/vollkorn.xml</loc>
-  <lastmod>2019-08-02T13:43:00Z</lastmod>
+  <lastmod>2019-08-05T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://vollkornsaskia.de/galleries/demo/rss.xml</loc>
@@ -55,10 +43,10 @@
  </sitemap>
  <sitemap>
   <loc>https://vollkornsaskia.de/rss.xml</loc>
-  <lastmod>2019-08-02T13:43:00Z</lastmod>
+  <lastmod>2019-08-05T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://vollkornsaskia.de/sitemap.xml</loc>
-  <lastmod>2019-08-04T18:16:00Z</lastmod>
+  <lastmod>2019-08-05T17:19:00Z</lastmod>
  </sitemap>
 </sitemapindex>

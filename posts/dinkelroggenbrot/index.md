@@ -1,5 +1,5 @@
 <!--
-.. title: Dinkelroggenbrot
+.. title: Sauerteig-Dinkelroggenbrot
 .. slug: dinkelroggenbrot
 .. date: 2019-07-31 14:53:40 UTC+02:00
 .. tags: einfach, sauerteig, vollkorn
@@ -18,7 +18,7 @@ Als ich angefangen habe, Brot zu backen, habe ich nach einem einfachen Vollkornb
 ### Quellstück (optional)
 
 -   60 g gemischte Samen und Kerne, z.B. Sesam, Leinsamen, Kürbiskerne, Sonnenblumenkerne, Mohn oder auch grobes Schrot oder Haferflocken
--   60 g Wasser
+-   60 g Wasser, warm
 
 ### Sauerteig
 
@@ -35,12 +35,12 @@ Als ich angefangen habe, Brot zu backen, habe ich nach einem einfachen Vollkornb
 
 Für das Quellstück das warme Wasser mit den Kernen oder Samen vermischen und abgedeckt im Kühlschrank lagern, bis es benötigt wird. Mindestens 8 Stunden quellen lassen.
 
-Für den Sauerteig alle Zutaten mischen und abgedeckt bei Raumtemperatur 8-12 Stunden gehen lassen. Wenn der Sauerteig morgens angesetzt wird, kann abends das Brot gebacken werden. Alternativ kann der Sauerteig morgens angesetzt werden und am nächsten Morgen erst gebacken werden. 
-Für den Hauptteig alle Zutaten mischen. Am einfachsten geht das mit einer Küchenmaschine, da der Teig sehr klebrig und zäh ist. Per Hand oder mit einem sehr stabilen Löffel geht natürlich auch, erfordert allerdings viel Muskelkraft und Durchhaltevermögen, da der Teig doch recht klebrig ist. Den Teig mit einer flexiblen Teigkarte vom Schüsselrand kratzen.
+Für den Sauerteig alle Zutaten mischen und abgedeckt bei Raumtemperatur 8-12 Stunden gehen lassen. Wenn der Sauerteig morgens angesetzt wird, kann abends das Brot gebacken werden. Alternativ kann der Sauerteig abends angesetzt werden und am nächsten Morgen erst gebacken werden. 
+Für den Hauptteig alle Zutaten mischen. Am einfachsten geht das mit einer Küchenmaschine, da der Teig sehr klebrig und zäh ist. Per Hand oder mit einem sehr stabilen Löffel geht natürlich auch. Den Teig mit einer flexiblen Teigkarte vom Schüsselrand kratzen.
 
 Den Teig nun abgedeckt 1 Stunde in der Schüssel gehen lassen. 
 
-Nach einer Stunde den Teig in eine gefettete (alternativ mit Backpapier ausgelegte) 30 cm Kastenform geben und den Teig mit Wasser besprühen. Wer möchte, kann das Brot noch mit Haferflocken, Schrot oder Kernen bestreuen und diese leicht eindrücken. 
+Nach einer Stunde den Teig in eine gefettete (alternativ mit Backpapier ausgelegte) 30 cm Kastenform geben und die Oberfläche mit Wasser besprühen. Wer möchte, kann das Brot noch mit Haferflocken, Schrot oder Kernen bestreuen und diese leicht eindrücken. 
 
 Der Teig kann nun entweder bis zu 12 Stunden im Kühlschrank gehen oder eine Stunde bei Raumtemperatur.
 

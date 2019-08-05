@@ -11,26 +11,18 @@
  </url>
  <url>
   <loc>https://vollkornsaskia.de/archive.html</loc>
-  <lastmod>2019-08-04T18:16:00Z</lastmod>
+  <lastmod>2019-08-05T17:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://vollkornsaskia.de/categories/</loc>
-  <lastmod>2019-08-01T08:01:00Z</lastmod>
+  <lastmod>2019-08-05T17:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://vollkornsaskia.de/categories/bagel/</loc>
   <lastmod>2019-07-31T14:56:00Z</lastmod>
  </url>
  <url>
-  <loc>https://vollkornsaskia.de/categories/brioche/</loc>
-  <lastmod>2019-07-31T15:03:00Z</lastmod>
- </url>
- <url>
   <loc>https://vollkornsaskia.de/categories/cat_broetchen-sauerteig/</loc>
-  <lastmod>2019-07-31T15:03:00Z</lastmod>
- </url>
- <url>
-  <loc>https://vollkornsaskia.de/categories/cat_gebaeck/</loc>
   <lastmod>2019-07-31T15:03:00Z</lastmod>
  </url>
  <url>
@@ -40,10 +32,6 @@
  <url>
   <loc>https://vollkornsaskia.de/categories/einfach/</loc>
   <lastmod>2019-07-31T15:01:00Z</lastmod>
- </url>
- <url>
-  <loc>https://vollkornsaskia.de/categories/hefezopf/</loc>
-  <lastmod>2019-07-31T15:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://vollkornsaskia.de/categories/rezept/</loc>
@@ -150,15 +138,11 @@
   <lastmod>2019-08-01T07:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://vollkornsaskia.de/posts/bagel/</loc>
-  <lastmod>2019-07-31T13:05:00Z</lastmod>
- </url>
- <url>
-  <loc>https://vollkornsaskia.de/posts/brioche/</loc>
-  <lastmod>2019-07-31T14:40:00Z</lastmod>
- </url>
- <url>
   <loc>https://vollkornsaskia.de/posts/dinkelroggenbrot/</loc>
   <lastmod>2019-07-31T12:55:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vollkornsaskia.de/posts/sauerteig-bagel/</loc>
+  <lastmod>2019-08-05T17:19:00Z</lastmod>
  </url>
 </urlset>
