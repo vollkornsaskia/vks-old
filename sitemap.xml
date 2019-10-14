@@ -11,7 +11,7 @@
  </url>
  <url>
   <loc>https://vollkornsaskia.de/archive.html</loc>
-  <lastmod>2019-08-18T19:08:00Z</lastmod>
+  <lastmod>2019-10-14T09:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://vollkornsaskia.de/categories/</loc>
@@ -51,15 +51,7 @@
  </url>
  <url>
   <loc>https://vollkornsaskia.de/listings/</loc>
-  <lastmod>2019-07-31T12:41:00Z</lastmod>
- </url>
- <url>
-  <loc>https://vollkornsaskia.de/listings/__pycache__/</loc>
-  <lastmod>2019-07-31T12:41:00Z</lastmod>
- </url>
- <url>
-  <loc>https://vollkornsaskia.de/listings/hello.py.html</loc>
-  <lastmod>2019-08-07T11:31:00Z</lastmod>
+  <lastmod>2019-09-17T14:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://vollkornsaskia.de/pages/about/</loc>
@@ -84,6 +76,10 @@
  <url>
   <loc>https://vollkornsaskia.de/posts/dinkelvollkornbrot/</loc>
   <lastmod>2019-08-18T18:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vollkornsaskia.de/posts/roggenvollkornbrot/</loc>
+  <lastmod>2019-10-14T09:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://vollkornsaskia.de/posts/sauerteig-bagel/</loc>
