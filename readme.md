@@ -9,6 +9,7 @@
 # Wenn ich es nur ausprobieren will:
 
 	nikola auto --browser
+	C-c
 
 Anmerkung: Das ganze sollte vom Thinkpad aus passieren, weil:
 
