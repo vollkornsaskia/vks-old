@@ -4,7 +4,9 @@
 	source nikola/bin/activate
 	cd ~/vollkornsaskia
 	nikola new_post -i <link to post.md>
+	git pull
 	nikola github_deploy
+	https://vollkornsaskia.de bei Github wieder hinzufuegen
 
 # Wenn ich es nur ausprobieren will:
 
