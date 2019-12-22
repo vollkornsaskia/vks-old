@@ -1,7 +1,7 @@
 # Wie erstelle ich einen neuen Rezeptpost?
 
 	cd ~/nikola
-	source nikola/bin/activate
+	source bin/activate
 	cd ~/vollkornsaskia
 	nikola new_post -i <link to post.md>
 	git pull
