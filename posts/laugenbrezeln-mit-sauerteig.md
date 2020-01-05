@@ -54,6 +54,6 @@ Nun die Bleche entweder eine Stunde bei Raumtemperatur oder 8-12 Stunden im Küh
 
 **Am nächsten Morgen (oder am gleichen Abend)**
 
-Den Ofen etwa 20 Minuten auf 250 °C aufheizen und währenddessen 500 g Wasser in einer Metallschüssel abwiegen. Vorsichtig mit Schutzbrille und dicken Gummihandschuhen (z.B. saubere Putzhandschuhe) 20 g Laugenperlen in das Wasser einrühren (nicht andersrum!). Nun nach und nach jede Brezel etwa 10 Sekunden in die Lösung tauchen, kurz abtropfen lassen und danach wieder auf das Backblech setzen. Mit einem scharfen Messer am Bauch einschneiden und mit Sesam oder grobem Salz bestreuen. Sofort bei 250°C etwa 10-15 Minuten backen, bis sie schön braun sind. Danach das zweite Blech backen. Nach dem Backen mit Wasser absprühen.
+Den Ofen etwa 20 Minuten auf 250 °C aufheizen und währenddessen 500 g Wasser in einer Metallschüssel abwiegen. Vorsichtig mit Schutzbrille und dicken Gummihandschuhen (z.B. saubere Putzhandschuhe) 20 g Laugenperlen in das Wasser einrühren (nicht andersrum!). Nun nach und nach jede Brezel vom ersten Blech etwa 10 Sekunden in die Lösung tauchen, kurz abtropfen lassen und danach wieder auf das Backblech setzen. Mit einem scharfen Messer am Bauch einschneiden und mit Sesam oder grobem Salz bestreuen. Sofort bei 250°C etwa 10-15 Minuten backen, bis sie schön braun sind. Danach mit dem zweiten Blech genauso verfahren. Nach dem Backen mit Wasser absprühen.
 
 ![Brezeln](/images/brezel2.JPG)
