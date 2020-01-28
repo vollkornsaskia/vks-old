@@ -11,11 +11,11 @@
  </url>
  <url>
   <loc>https://vollkornsaskia.de/archive.html</loc>
-  <lastmod>2020-01-05T12:46:00Z</lastmod>
+  <lastmod>2020-01-28T14:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://vollkornsaskia.de/categories/</loc>
-  <lastmod>2019-12-22T06:48:00Z</lastmod>
+  <lastmod>2020-01-28T14:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://vollkornsaskia.de/categories/bagel/</loc>
@@ -34,12 +34,20 @@
   <lastmod>2019-07-31T15:03:00Z</lastmod>
  </url>
  <url>
+  <loc>https://vollkornsaskia.de/categories/cat_brot/</loc>
+  <lastmod>2020-01-28T14:24:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://vollkornsaskia.de/categories/cat_sauerteig-brot/</loc>
   <lastmod>2019-07-31T15:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://vollkornsaskia.de/categories/ciabatta/</loc>
   <lastmod>2019-12-22T06:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vollkornsaskia.de/categories/dinkel/</loc>
+  <lastmod>2020-01-28T14:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://vollkornsaskia.de/categories/einfach/</loc>
@@ -54,12 +62,24 @@
   <lastmod>2019-12-12T19:15:00Z</lastmod>
  </url>
  <url>
+  <loc>https://vollkornsaskia.de/categories/kastenbrot/</loc>
+  <lastmod>2020-01-28T14:24:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://vollkornsaskia.de/categories/rezept/</loc>
   <lastmod>2019-07-31T14:56:00Z</lastmod>
  </url>
  <url>
   <loc>https://vollkornsaskia.de/categories/sauerteig/</loc>
   <lastmod>2019-07-31T14:56:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vollkornsaskia.de/categories/toast/</loc>
+  <lastmod>2020-01-28T14:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vollkornsaskia.de/categories/vegan/</loc>
+  <lastmod>2020-01-28T14:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://vollkornsaskia.de/categories/vollkorn/</loc>
@@ -100,6 +120,10 @@
  <url>
   <loc>https://vollkornsaskia.de/posts/dinkelvollkornbrot/</loc>
   <lastmod>2019-08-18T18:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vollkornsaskia.de/posts/dinkelvollkorntoastbrot-sauerteig-vegan/</loc>
+  <lastmod>2020-01-28T14:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://vollkornsaskia.de/posts/einfaches-ciabatta/</loc>
