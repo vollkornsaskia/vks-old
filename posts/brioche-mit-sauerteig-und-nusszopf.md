@@ -15,6 +15,8 @@ Brioche wird klassischerweise mit Hefe zubereitet. Da ich nie frische Hefe zuhau
 
 <!-- TEASER_END -->
 
+![Brioche](/images/brioche2.jpg)
+
 ## Vorteig
 
 - 100 g Vollkornweizenmehl (oder Type 550)
@@ -56,8 +58,6 @@ Brioche wird klassischerweise mit Hefe zubereitet. Da ich nie frische Hefe zuhau
 - 1 Pr Kurkuma
 - 1 Pr Salz
 
-![Brioche](/images/brioche2.jpg)
-
 *Vortag: Morgens*
 
 Alle Zutaten für den Vorteig mischen und 5-8 Stunden gehen lassen, je nach Aktivität des Sauerteigs und Temperatur. Alle Zutaten für das Kochstück in einen kleinen Topf gehen und unter ständigem Rühren bei mittlerer Hitze zu einem dicken Pudding einkochen. In ein kleine Schraubglas füllen und abgedeckt abkühlen lassen.
@@ -76,7 +76,8 @@ Den geformten Teigling in jedem Fall nun über Nacht im Kühlschrank bei 5 Grad 
 
 *Backtag: Am nächsten Morgen*
 
-Am nächsten Morgen den Ofen 30 Minuten auf **230 Grad** aufheizen. Dann die Form direkt aus dem Kühlschrank in den Ofen stellen und bei **190 Grad 60 Minuten** (Zimtschnecken nur etwa 25-30 Minuten) backen. 5 Minuten in der Form abkühlen lassen und dann auf einem Gitter so lange abkühlen lassen, wie man es aushält ;)
+Am nächsten Morgen den Ofen 30 Minuten auf **230 Grad** aufheizen.
+Die Brioche (oder was aus dem Teig geworden ist) mit der Eistreiche bepinseln, in den Ofen stellen und bei **190 Grad 60 Minuten** (Zimtschnecken nur etwa 25-30 Minuten) backen. 5 Minuten in der Form abkühlen lassen und dann auf einem Gitter so lange abkühlen lassen, wie man es aushält. 😉
 
 ![Brioche](/images/brioche3.jpg)
 
