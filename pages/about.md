@@ -2,18 +2,18 @@
 .. title: about
 .. slug: about
 .. date: 2019-08-01 09:41:24 UTC+02:00
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
 -->
 
 # Über mich
 
-Hallo! 
+Hallo!
 
-Ich freue mich sehr, dass du auf meine Seite gefunden hast. 
+Ich freue mich sehr, dass du auf meine Seite gefunden hast.
 
 Ich bin Informatik-Studentin aus Karlsruhe und backe leidenschaftlich gerne Brot. Daher möchte ich gerne meine liebsten Rezepte teilen.
 
@@ -21,6 +21,4 @@ Ich bin keine gelernte Bäckerin und habe sicherlich weniger Expertise und Erfah
 
 Wenn du Fragen hast, entweder brotback-technischer Natur oder zu mir, kannst du mir gerne eine Nachricht schicken.
 
-<div style="text-align:center">hi (at) vollkornsaskia (punkt) de</div>
-
-
+<div style="text-align:center">vollkornsaskia (at) bayreuther (punkt) xyz</div>
