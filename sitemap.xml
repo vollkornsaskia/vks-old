@@ -11,11 +11,11 @@
  </url>
  <url>
   <loc>https://vollkornsaskia.de/archive.html</loc>
-  <lastmod>2020-04-12T08:15:00Z</lastmod>
+  <lastmod>2020-07-04T15:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://vollkornsaskia.de/categories/</loc>
-  <lastmod>2020-04-12T08:11:00Z</lastmod>
+  <lastmod>2020-07-04T15:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://vollkornsaskia.de/categories/bagel/</loc>
@@ -44,6 +44,10 @@
  <url>
   <loc>https://vollkornsaskia.de/categories/cat_sauerteig-brot/</loc>
   <lastmod>2019-07-31T15:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vollkornsaskia.de/categories/cat_sauerteigbrot-vollkornbrot-mischbrot/</loc>
+  <lastmod>2020-07-04T15:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://vollkornsaskia.de/categories/ciabatta/</loc>
@@ -78,6 +82,10 @@
   <lastmod>2019-07-31T14:56:00Z</lastmod>
  </url>
  <url>
+  <loc>https://vollkornsaskia.de/categories/roggen/</loc>
+  <lastmod>2020-07-04T15:13:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://vollkornsaskia.de/categories/sauerteig/</loc>
   <lastmod>2019-07-31T14:56:00Z</lastmod>
  </url>
@@ -92,6 +100,10 @@
  <url>
   <loc>https://vollkornsaskia.de/categories/vollkorn/</loc>
   <lastmod>2019-07-31T14:56:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vollkornsaskia.de/categories/weizen/</loc>
+  <lastmod>2020-07-04T15:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://vollkornsaskia.de/galleries/</loc>
@@ -152,5 +164,9 @@
  <url>
   <loc>https://vollkornsaskia.de/posts/sauerteig-bagel/</loc>
   <lastmod>2019-08-05T17:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vollkornsaskia.de/posts/vollkornmischbrot-mit-sauerteig/</loc>
+  <lastmod>2020-07-04T15:13:00Z</lastmod>
  </url>
 </urlset>

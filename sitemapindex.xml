@@ -34,12 +34,16 @@
   <lastmod>2019-08-05T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://vollkornsaskia.de/categories/cat_sauerteigbrot-vollkornbrot-mischbrot.xml</loc>
+  <lastmod>2020-07-04T15:19:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://vollkornsaskia.de/categories/ciabatta.xml</loc>
   <lastmod>2019-12-22T06:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://vollkornsaskia.de/categories/dinkel.xml</loc>
-  <lastmod>2020-01-28T14:27:00Z</lastmod>
+  <lastmod>2020-07-04T15:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://vollkornsaskia.de/categories/einfach.xml</loc>
@@ -66,8 +70,12 @@
   <lastmod>2019-08-05T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://vollkornsaskia.de/categories/roggen.xml</loc>
+  <lastmod>2020-07-04T15:19:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://vollkornsaskia.de/categories/sauerteig.xml</loc>
-  <lastmod>2020-04-12T08:15:00Z</lastmod>
+  <lastmod>2020-07-04T15:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://vollkornsaskia.de/categories/toast.xml</loc>
@@ -79,18 +87,22 @@
  </sitemap>
  <sitemap>
   <loc>https://vollkornsaskia.de/categories/vollkorn.xml</loc>
-  <lastmod>2020-01-28T14:27:00Z</lastmod>
+  <lastmod>2020-07-04T15:19:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://vollkornsaskia.de/categories/weizen.xml</loc>
+  <lastmod>2020-07-04T15:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://vollkornsaskia.de/galleries/rss.xml</loc>
-  <lastmod>2019-12-12T17:22:00Z</lastmod>
+  <lastmod>2020-07-04T15:13:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://vollkornsaskia.de/rss.xml</loc>
-  <lastmod>2020-04-12T08:15:00Z</lastmod>
+  <lastmod>2020-07-04T15:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://vollkornsaskia.de/sitemap.xml</loc>
-  <lastmod>2020-04-12T08:15:00Z</lastmod>
+  <lastmod>2020-07-04T15:19:00Z</lastmod>
  </sitemap>
 </sitemapindex>
